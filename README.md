@@ -15,3 +15,6 @@ Nanti jika pengembangannya telah menginjak Final, kami akan memberikan lisensi b
 ## Saran dan Bantu Kontribusi
 Anda ingin bergabung dalam pengembangan *naoLinux* ? atau Anda hanya ingin memberikan saran saja untuk pengembangan **naoLinux** kedepannya ?
 Hubungi saya melalui Dev Twitter dengan melakukan DM (https://twitter.com/NaoDreamweaver) untuk lebih lanjut atau hubungi email developer (naomegumi@outlook.co.id)
+
+## Kapan pengembangan akan dimulai ?
+Pengembangan **naoLinux** akan dimulai mulai 1 November 2021 untuk Alpha, 1 Juli 2022 untuk Beta, dan Final Release belum ditentukan.
