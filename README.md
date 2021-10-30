@@ -1,7 +1,7 @@
 ## Apa itu naoLinux ?
 **naoLinux** merupakan sebuah sistem operasi berbasis Linux yang diperuntukan untuk pengguna Komputer dengan Prosesor lama.
 **naoLinux** yang kali ini akan dibangun dan dirilis adalah **naoLinux Alpha** dan **naoLinux Beta**.
-**naoLinux** dikembangkan oleh seorang Developer Multi-Platform yaitu Nao Megumi, dengan basis sementara dari *Arch Linux* dan *Fedora* (untuk Alpha) dan *openSUSE* dan *Lubuntu* (untuk Beta)
+**naoLinux** dikembangkan oleh seorang Developer Multi-Platform yaitu Nao Megumi, dengan basis sementara dari *Arch Linux* dan *Fedora* (untuk Alpha), *openSUSE* dan *Lubuntu* (untuk Beta)
 Sebelum pengembangan dilanjut ke final, kami akan memeriksa Distro Linux mana yang akan cocok untuk dijadikan sebagai sistem operasi yang akan digunakan pada **naoLinux Final**.
 
 ## Tahap Pengembangan
